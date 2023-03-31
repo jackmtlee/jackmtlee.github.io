@@ -1,2 +1,2 @@
 # jackmtlee.github.io
-# For Xiaoming Li's personal website
+# Xiaoming Li's personal website
